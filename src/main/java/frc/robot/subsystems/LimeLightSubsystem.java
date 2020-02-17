@@ -37,7 +37,7 @@ else{
   robot.go(0);
 }
 
-*/
+*/  //ITS A TEST CREATED TO BE USED WITHOUT ENCODERS, I'D RECOMMEND TO JUST USE A PID LOOP
 
 
 //read values periodically
