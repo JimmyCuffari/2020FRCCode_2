@@ -37,7 +37,7 @@ else{
   robot.go(0);
 }
 
-*/
+*/  //its just a lazy replacement for encoders and PID, please just use PID when we got encoders working
 
 
 //read values periodically
